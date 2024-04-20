@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Nwosu K.</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **Azure and Aws**
+- 🌱 I’m currently with  **Azure and Aws**
 
-- 👯 I’m looking to collaborate on **Cloud Native Projects**
+- 👯 I’m looking to collaborate Azure **CI/CD**
 
-- 🤝 I’m looking for help with **DevOps**
+- 🤝 Giving solutions with simple deployments  **DevOps**
 
 - 📝 I regularly write articles on [Devops and its Tools]
   
-- 💬 Ask me about **Azure and Aws Tools**
+- 💬 Ask me about **AZURE and AWS Tools**
 
 - 📫 How to reach me **nnamsi50@gmail.com**
 
-- ⚡ Fun fact **Practice and cloud deployments**
+- ⚡ Fun fact **Practice, Research and Cloud Deployments**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
