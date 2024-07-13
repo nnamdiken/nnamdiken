@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Nwosu K.</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently with  **Azure and Aws**
+- 🌱 I’m currently doing some HandsOn  **Azure and Aws** Projects and Deployments
 
-- 👯 I’m looking to collaborate Azure **CI/CD**
+  👯 I’m looking to collaborate Azure **CI/CD**
 
 - 🤝 Giving solutions with simple deployments  **DevOps**
 
