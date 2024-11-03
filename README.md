@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Nwosu K.</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 
-- 🌱 I’m currently doing some HandsOn  **Azure and Aws** Projects and Deployments
+- 🌱 I’m currently doing some HandsOn  **Azure** Projects and Deployments
 
   👯 I’m looking to collaborate Azure **CI/CD**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Devops and its Tools]
   
-- 💬 Ask me about **AZURE and AWS Tools**
+- 💬 Ask me about **AZURE Tools**
 
 - 📫 How to reach me **nnamsi50@gmail.com**
 
