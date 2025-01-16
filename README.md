@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nnamdi Nwosu K.</h1>
-<h3 align="center">A passionate DevOps Engineer</h3>
+<h3 align="center">A passionate Azure Cloud Engineer</h3>
 
 - 🌱 I’m currently doing some HandsOn  **Azure** Projects and Deployments
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Devops and its Tools]
   
-- 💬 Ask me about **AZURE Tools**
+- 💬 Ask me about **Azure Tools**
 
 - 📫 How to reach me **nnamsi50@gmail.com**
 
